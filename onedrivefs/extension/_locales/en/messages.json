@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "OneDrive for Chrome OS",
+    "description": "Extension name."
+  },
+  "extDescription": {
+    "message": "Local provider for Microsoft OneDrive",
+    "description": "Extension description."
+  }
+}
