@@ -18,5 +18,5 @@
     "test": "grunt test"
   },
   "author": "Kevin Rooney",
-  "license": "BSD",
+  "license": "BSD"
 }
